@@ -13,7 +13,7 @@
  */
  
 
-#include "TimeAlarms/TimeAlarms.h"
+#include "SparkTimeAlarms255/SparkTimeAlarms255.h"
 
 void setup()
 {
