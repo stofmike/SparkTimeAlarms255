@@ -23,7 +23,7 @@ extern "C" {
 
 
 
-#include "TimeAlarms.h"
+#include "SparkTimeAlarms255.h"
 //#include "Time.h"
 
 #define IS_ONESHOT  true   // constants used in arguments to create method
