@@ -1,0 +1,7 @@
+{
+	"name": "SparkTimeAlarms255",
+	"author": "Michael Stofberg",
+	"version": "0.0.1",
+	"license": "LGPL 3.0",
+	"description": "Port of SparkTimeAlarms to include 255 alarms"
+}
